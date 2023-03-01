@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/a60231023/planets-project.git"
   },
-  "author": "ayush tiwari",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/a60231023/planets-project/issues"
   },
   "homepage": "https://github.com/a60231023/planets-project#readme",
   "dependencies": {
-    "csv-parse": "^5.3.5"
+    "csv-parse": "^4.15.1"
   }
 }
