@@ -1,0 +1,22 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a60231023/planets-project.git"
+  },
+  "author": "ayush tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a60231023/planets-project/issues"
+  },
+  "homepage": "https://github.com/a60231023/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
